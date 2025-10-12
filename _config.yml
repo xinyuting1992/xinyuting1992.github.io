@@ -103,5 +103,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:xinyuting1992/xinyuting1992.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: gh-pages
-  message: 'laptop'
+  branch: main
+
