@@ -8,7 +8,7 @@ aside: true
 toc: true
 ---
 
-{% flink %}
+{ % flink % }
 - class_name: '类别 1'
   class_desc: '类别 1 的描述'
   link_list:
@@ -39,4 +39,4 @@ toc: true
       link: '网址'
       avatar: '图标'
       descr: '描述'
-{% endflink %}
+{ % endflink % }
