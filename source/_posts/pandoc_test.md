@@ -8,7 +8,7 @@
 
 图片
 
-<img src="./images/media/image1.png" style="width:9.32266in;height:5.18869in" />
+<img src="./images/media/image1.png"  />
 
 ··· python
 
