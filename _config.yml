@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,13 +96,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-## theme: landscape
-theme: next
+theme: landscape
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: 'git'
-  repo: https://github.com/xinyuting1992/xinyuting1992.github.io.git
-  branch: main
+# # Deployment
+# ## Docs: https://hexo.io/docs/one-command-deployment
+# deploy:
+#   type: 'git'
+#   repo: https://github.com/xinyuting1992/xinyuting1992.github.io.git
+#   branch: main
   
